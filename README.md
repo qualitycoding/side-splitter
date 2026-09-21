@@ -41,3 +41,7 @@ Tuning options: `--music-db`, `--track-gap`, `--min-side`, `--pad-start`, `--pad
 - If Audacity shows a "mixing down" warning during the internal export, disable it under
   Preferences → Warnings.
 - Save the project before `trim`; each edit is a separate undo step.
+
+## License
+
+Apache License 2.0 — see `LICENSE`.
