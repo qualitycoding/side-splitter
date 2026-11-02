@@ -33,7 +33,7 @@ python vinyl_trim.py analyze rec.flac --plot   # offline analysis, no Audacity n
 
 Then File → Export Audio → *Multiple files*, split by labels, for one file per side.
 
-Tuning options: `--music-db`, `--track-gap`, `--min-side`, `--pad-start`, `--pad-end`,
+`--yes` skips the confirmation prompt in `trim`. Tuning options: `--music-db`, `--track-gap`, `--min-side`, `--pad-start`, `--pad-end`,
 `--fade-in`, `--fade-out`, `--keep-gap`.
 
 ## Notes
